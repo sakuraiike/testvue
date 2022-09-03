@@ -3,7 +3,7 @@ exports.showme=function(){
 }
 exports.year=3333;
 exports.person={
-    name:"lily",
+    name:"lily1",
     sayhello:function(){
         console.log("hello:i am ",this.name);
     }
