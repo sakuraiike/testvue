@@ -6,7 +6,6 @@ function MyUtils(){
         console.log("operated");
     }
     this.sleep=function(){
-
         console.log("slept");
     }
 
