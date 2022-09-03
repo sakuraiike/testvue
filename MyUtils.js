@@ -2,7 +2,7 @@ function MyUtils(){
     this.name="MyUtils";
     this.version="3.5.1";
     this.operate=function(){
-
+        //good
         console.log("operated");
     }
     this.sleep=function(){
